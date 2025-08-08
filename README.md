@@ -55,7 +55,7 @@ The goal of this dashboard is to showcase my skills in **data cleaning, modeling
 ---
 
 ## 📸 Dashboard Preview
-<img width="1857" height="958" alt="wildlife_observation_Dashboard" src="https://github.com/user-attachments/assets/aca6fa18-3f27-403d-bc67-dde305d18f70" />
+<img width="1857" height="958" alt="wildlife_observation_Dashboard" src="https://github.com/BCA-CODES/Wildlife-Observation-Dashboard/blob/main/animal_dashboard.png)" />
 
 ---
 
