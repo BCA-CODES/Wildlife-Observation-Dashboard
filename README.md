@@ -1,57 +1,68 @@
-🐾 Wildlife Observation Dashboard – Power BI Project
-📌 Project Overview
-This is my first Power BI dashboard project, designed to track and analyze wildlife observation data.
-The goal of this dashboard is to showcase my skills in data cleaning, modeling, visualization, and insight generation.
+# 🐾 Wildlife Observation Dashboard
 
-🎯 Key Objectives
-Track wildlife observations by species, location, and time
+## 📌 Project Overview
+This is my **first Power BI dashboard** project, designed to track and analyze **wildlife observation data**.  
+The goal of this dashboard is to showcase my skills in **data cleaning, modeling, visualization, and insight generation**.
 
-Compare average body size and weight across different animal types
+---
 
-Visualize geographical distribution of observations
+## 🎯 Key Objectives
+- 📅 Track wildlife observations by **species, location, and time**  
+- 📏 Compare **average body size and weight** across different animal types  
+- 🗺 Visualize **geographical distribution** of observations  
+- 🚻 Analyze **gender distribution** of observed animals  
+- 🎨 Create an **interactive and visually consistent** dashboard
 
-Analyze gender distribution of observed animals
+---
 
-Create an interactive and visually consistent dashboard
+## 📊 Dashboard Highlights
 
-📊 Dashboard Highlights
-1️⃣ Monthly Trend of Wildlife Observations
-Tracks changes in observation frequency month-over-month
+### 1️⃣ Monthly Trend of Wildlife Observations
+- Tracks changes in observation frequency **month-over-month**  
+- Helps identify **seasonal trends** in animal sightings
 
-Helps identify seasonal trends in animal sightings
+### 2️⃣ Average Body Size & Weight by Animal Type
+- Compares **average length** and **average weight**  
+- Includes key species such as **European Bison, Lynx, Hedgehog, and Red Squirrel**
 
-2️⃣ Average Body Size & Weight by Animal Type
-Compares average length and average weight
+### 3️⃣ Observation Count by Country & Animal Type
+- Shows species distribution across **different countries**  
+- Highlights **top observation countries** like Poland, Germany, and Hungary
 
-Includes key species such as European Bison, Lynx, Hedgehog, and Red Squirrel
+### 4️⃣ Geographical Distribution of Observations
+- Interactive **map visualization** to view sightings by location
 
-3️⃣ Observation Count by Country & Animal Type
-Shows species distribution across different countries
+### 5️⃣ Gender Distribution of Observed Animals
+- Displays male, female, and unknown gender proportions
 
-Highlights top observation countries like Poland, Germany, and Hungary
+---
 
-4️⃣ Geographical Distribution of Observations
-Interactive map visualization to view sightings by location
+## 📈 Insights from the Data
+- 🏆 **European Bison** was the most frequently observed animal  
+- 🌍 **Poland** had the highest number of wildlife observations  
+- 📈 Observation counts peaked in **March 2024**  
+- 🚻 Male and female observations are **almost evenly split**  
+- 🦔 Small species like the **Hedgehog** still had notable tracking presence
 
-5️⃣ Gender Distribution of Observed Animals
-Displays male, female, and unknown gender proportions
+---
 
-📈 Insights from the Data
-European Bison was the most frequently observed animal
+## 🛠 Tools & Skills Used
+- **Power BI** – Dashboard design & data visualization  
+- **Excel** – Data cleaning & preparation  
+- **DAX** – Calculated measures for analysis  
+- **Data Storytelling** – Clear and engaging insights presentation
 
-Poland had the highest number of wildlife observations
+---
 
-Observation counts peaked in March 2024
+## 📸 Dashboard Preview
+![Dashboard Screenshot](Images/dashboard_preview.png)
 
-Male and female observations are almost evenly split
+---
 
-Small species like the Hedgehog still had notable tracking presence
+## 📬 Contact
+💼 [LinkedIn Profile](https://www.linkedin.com/in/dev-virani-a19452350/)
 
-🛠 Tools & Skills Used
-Power BI for dashboard design & data visualization
+---
 
-Excel for initial data cleaning & preparation
+⭐ **If you like this project, consider giving it a star on GitHub!**
 
-DAX for calculated measures
-
-Data Storytelling for insight presentation
